@@ -1,1 +1,27 @@
 /* Add screen styles below */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    background-color: #f4f4f4;
+  }
+  img.top {
+    position: absolute;
+    top: 0px; 
+    right: 0px;
+    width: 1000px; 
+    height: auto;
+  }
+  header {
+    padding: 250px;
+    text-align: center;
+    position: relative;
+  }
+  img.below {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 500px;
+    height: auto;
+  }
