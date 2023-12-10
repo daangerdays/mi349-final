@@ -22,6 +22,18 @@ body {
     position: absolute;
     bottom: 0px;
     left: 0px;
-    width: 500px;
+    width: 100px;
     height: auto;
+  }
+  .button {
+    background-color: #0c0f12;
+    color: white;
+    padding: 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  .contact {
+    position: relative;
+    display: inline-block;
   }
